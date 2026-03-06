@@ -1,4 +1,4 @@
-GREYctrl is The worlds most advanced vapor control software, and the very first plugin manager.
+GREYctrl is the worlds most advanced vapor device controller software with the first plugin manager.
 
 Feature List (v0.2)
 
